@@ -202,6 +202,12 @@
             </li>
             <li>
                 <span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> 
+                <a target="_blank" href="../vender/files/notices/submission_mock oral.pdf">
+                   Revised submission and mock oral schedule circular for BE and TE.
+                </a>
+            </li>
+            <!-- <li>
+                <span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> 
                 <a target="_blank" href="../vender/files/notices/PCCOE INSEM EXAMINATION CIRCULAR BACHELOR OF ENGINEERING (2015 COURSE) B.E (CIVIL) TIME -2.00 TO 2.40 PM.pdf">
                   Pccoe insem examination circular bachelor of engineering (2015 course) b.E (civil) time -2.00 to 2.40 pm.
                 </a>
@@ -217,7 +223,7 @@
               <a  target="_blank" href="../vender/files/notices/PCCOE-Examination Circular Third Year Engineering (2019 Pattern) SEM-I Insemester Examination Time 10.00 am To 10.40 am.pdf">
                 PCCOE-Examination Circular Third Year Engineering (2019 Pattern) SEM-I Insemester Examination Time 10.00 am To 10.40 am.
               </a>
-          </li>
+          </li> -->
         </ul>
     </div>
 </div>

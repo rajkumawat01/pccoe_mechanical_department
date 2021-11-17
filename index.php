@@ -391,7 +391,7 @@
                     <a target="_blank" href="vender/files/notices/Very Important register on Internship and NEAT Portal -reg..pdf">
                       <li><small>Very important register on internship and NEAT portal -reg.</small></li>
                     </a>
-                    <a target="_blank" href="vender/files/notices/PCCOE INSEM EXAMINATION CIRCULAR BACHELOR OF ENGINEERING (2015 COURSE) B.E (CIVIL) TIME -2.00 TO 2.40 PM.pdf">
+                    <!-- <a target="_blank" href="vender/files/notices/PCCOE INSEM EXAMINATION CIRCULAR BACHELOR OF ENGINEERING (2015 COURSE) B.E (CIVIL) TIME -2.00 TO 2.40 PM.pdf">
                       <li>
                         <small>Pccoe insem examination circular bachelor of engineering (2015 course) B.E time -2.00 to 2.40 pm.</small>
                       </li>
@@ -404,6 +404,11 @@
                     <a target="_blank" href="vender/files/notices/PCCOE-Examination Circular Third Year Engineering (2019 Pattern) SEM-I Insemester Examination Time 10.00 am To 10.40 am.pdf">
                       <li>
                         <small>PCCOE-Examination Circular Third Year Engineering (2019 Pattern) SEM-I Insemester Examination Time 10.00 am To 10.40 am.</small>
+                      </li>
+                    </a> -->
+                    <a target="_blank" href="vender/files/notices/submission_mock oral.pdf">
+                      <li>
+                        <small>Revised submission and mock oral schedule circular for BE and TE.</small>
                       </li>
                     </a>
                   </ul>
