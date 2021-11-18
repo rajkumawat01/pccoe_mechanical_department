@@ -203,9 +203,10 @@
         <div class="running-text">
             <span class="static-head">SPOTLIGHT</span>
             <marquee scrollamount="4" class="p-1" onmouseover="this.stop();" onmouseout="this.start();">
-              <a class="text-decoration-none text-dark" target="_blank" href="vender/files/department_boucher/1623508314920_samvaad Vol 1, Issue 3.pdf">
+              <a class="text-decoration-none text-dark" target="_blank" href="http://i-mace.pccoepune.com/">
                 <span class="marquee-text">
-                   </span>
+                International conference on innovation in mechanical & civil engineering.
+                </span>
               </a>
             </marquee>
         </div>
@@ -418,9 +419,9 @@
               <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
                 <marquee direction="up" height="300px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
                   <ul class="section-list section-list-sm">
-                    <!-- <a target="_blank" href="vender/files/department_boucher/1623508314920_samvaad Vol 1, Issue 3.pdf">
-                      <li><small>186+ patents in last six years</small></li>
-                    </a> -->
+                    <a target="_blank" href="http://i-mace.pccoepune.com/">
+                      <li><small>International conference on innovation in mechanical & civil engineering.</small></li>
+                    </a>
                   </ul>
                 </marquee>
                 <p class="read-more"><a href="news_section/upcomming_event.php">read more</a></p>
