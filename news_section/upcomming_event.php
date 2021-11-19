@@ -198,7 +198,7 @@
             <li>
                 <span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> 
                 <a target="_blank" href="http://i-mace.pccoepune.com/">
-                International conference on innovation in mechanical & civil engineering.
+                I-MACE 2022 International conference on innovation in mechanical & civil engineering.
                 </a>
             </li>
         </ul>

@@ -205,7 +205,7 @@
             <marquee scrollamount="4" class="p-1" onmouseover="this.stop();" onmouseout="this.start();">
               <a class="text-decoration-none text-dark" target="_blank" href="http://i-mace.pccoepune.com/">
                 <span class="marquee-text">
-                International conference on innovation in mechanical & civil engineering.
+                I-MACE 2022 International conference on innovation in mechanical & civil engineering.
                 </span>
               </a>
             </marquee>
@@ -420,7 +420,7 @@
                 <marquee direction="up" height="300px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
                   <ul class="section-list section-list-sm">
                     <a target="_blank" href="http://i-mace.pccoepune.com/">
-                      <li><small>International conference on innovation in mechanical & civil engineering.</small></li>
+                      <li><small>I-MACE 2022 International conference on innovation in mechanical & civil engineering.</small></li>
                     </a>
                   </ul>
                 </marquee>
