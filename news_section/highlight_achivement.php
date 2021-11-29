@@ -198,8 +198,8 @@
         <ul class="fa-ul">
             <li>
                 <span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> 
-                <a target="_blank" href="">
-                  Data not available.
+                <a target="_blank" href="../vender/files/notices/recent_achivement.jpg">
+                <b>Dr. U. G. Potdar & Dr. N. R Deore</b> received a grant of  <b>Rs. 25,50,800/- from DST-SERB</b> for the project entitled <b>"Design & development of miniature liquid fuel film comustor for thermoelectric power generation".</b>
                 </a>
             </li>
         </ul>

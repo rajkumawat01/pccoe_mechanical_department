@@ -429,9 +429,9 @@
               <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
                 <marquee direction="up" height="300px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
                   <ul class="section-list section-list-sm">
-                    <!-- <a target="_blank" href="vender/files/department_boucher/1623508314920_samvaad Vol 1, Issue 3.pdf">
-                      <li><small>186+ patents in last six years</small></li>
-                    </a> -->
+                    <a target="_blank" href="vender/files/notices/recent_achivement.jpg">
+                      <li><small><b>Dr. U. G. Potdar & Dr. N. R Deore</b> received a grant of  <b>Rs. 25,50,800/- from DST-SERB</b> for the project entitled <b>"Design & development of miniature liquid fuel film comustor for thermoelectric power generation".</b></small></li>
+                    </a>
                   </ul>
                 </marquee>
                  <p class="read-more"><a href="news_section/highlight_achivement.php">read more</a></p>
