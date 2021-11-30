@@ -285,27 +285,27 @@
 
 
 
-        <div class="implinks-section bg-light">
+        <div class="implinks-section bg-light pb-1">
           <div class="border-bottom border-1 border-primary pt-3">
             <p class="fs-5 color-blue">&nbsp; <i class="fas fa-angle-double-right"></i> Important Links</p>
           </div>
           <ul class="section-list">
-            <marquee direction="up" height="305px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
-              <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScGsw3nasQ5Htfit1Obw3sK0aurDh7CfJiUT5TZv64gSM4Q1Q/viewform">
-                <li>Exit Survey Form Link</li>
-              </a>
-              <a target="_blank" href="https://forms.gle/R3wQMM5Pk4RoJ9Wh9">
-                <li>Alumni Survey Form Link</li>
-              </a>
-              <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdWdx0PJ_kQFJ1YD1TtYBo6bOYYzXKZz4hm_Jk6Hh7yjQjH0A/viewform?usp=sf_link">
-                <li>Parent Survey Form Link</li>
-              </a>
-            </marquee>
+            <!-- <marquee direction="up" height="305px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();"> -->
+            <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScGsw3nasQ5Htfit1Obw3sK0aurDh7CfJiUT5TZv64gSM4Q1Q/viewform">
+              <li>Exit Survey Form Link</li>
+            </a>
+            <a target="_blank" href="https://forms.gle/R3wQMM5Pk4RoJ9Wh9">
+              <li>Alumni Survey Form Link</li>
+            </a>
+            <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdWdx0PJ_kQFJ1YD1TtYBo6bOYYzXKZz4hm_Jk6Hh7yjQjH0A/viewform?usp=sf_link">
+              <li>Parent Survey Form Link</li>
+            </a>
+            <!-- </marquee> -->
           </ul>
         </div>
       </div>
       <div class="col-lg-9">
-        <div class="container-fluid p-3 about-section bg-light rounded">
+        <div class="container-fluid p-3 mt-2 about-section bg-light rounded">
           <div class="border-bottom border-1 border-primary">
             <p class="fs-4 color-blue">About Mechanical</p>
           </div>
@@ -331,52 +331,24 @@
         </div>
         <div class="row mt-3">
           <div class="col-sm-6">
-            <div class="container-fluid p-3 bg-light branch-section">
+            <div class="container-fluid p-3 pb-1 bg-light">
               <div class="border-bottom border-1 border-primary">
-                <p class="fs-4 color-blue">Courses</p>
+                <p class="fs-4 color-blue">Highlighted Achievements</p>
               </div>
               <div class="row text-center justify-content-center">
-                <div class="col-6">
-                  <a class="text-decoration-none text-dark" href="ug/co_cordinator_desk.php">
-                    <div class="item text-center">
-                      <img src="vender/img/logo/b-tech.jpg" /><br>
-                      <span class="post">B. Tech</span><br>
-                      <div class="branch">Mechanical Engineering</div>
+                <marquee height="410px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
+                  <ul class="section-list section-list-sm">
+                    <div class="achivement-item border card mt-2">
+                      <img src="vender/files/notices/recent_achivement.jpg">
+                      <p class="p-2  mb-0 font-title text-data"><small><b>Dr. U. G. Potdar & Dr. N. R Deore</b> received a grant of <br><b>Rs. 25,50,800/- from DST-SERB</b> for the project entitled <br><b>"Design & development of miniature liquid fuel film <br>comustor for thermoelectric power generation".</b></small></p>
                     </div>
-                  </a>
-                </div>
-                <div class="col-6">
-                  <a class="text-decoration-none text-dark" href="pg/me-design.php">
-                    <div class="item">
-                      <img src="vender/img/logo/m-tech.jpg" /><br>
-                      <span class="post">M.Tech</span><br>
-                      <div class="branch">Design Engineering</div>
-                    </div>
-                  </a>
-                </div>
-                <div class="col-6">
-                  <a class="text-decoration-none text-dark" href="pg/me-heatpower.php">
-                    <div class="item">
-                      <img src="vender/img/logo/m-tech2.png" /><br>
-                      <span class="post">M.Tech</span><br>
-                      <div class="branch">Heat Power Engineering </div>
-                    </div>
-                  </a>
-                </div>
-                <div class="col-6">
-                  <a class="text-decoration-none text-dark" href="phd/2.php">
-                    <div class="item">
-                      <img src="vender/img/logo/phd.jpg" /><br>
-                      <span class="post">Ph.D</span><br>
-                      <div class="branch">Mechanical Engineering</div>
-                    </div>
-                  </a>
-                </div>
+                  </ul>
+                </marquee>
               </div>
             </div>
           </div>
-          <div class="col-sm-6">
-            <div class="container-fluid news-section mt-3 p-1 bg-light">
+          <div class="col-sm-6 mt-2">
+            <div class="container-fluid news-section p-1 bg-light">
               <ul class="nav nav-tabs nav-fill tab-section" id="myTab" role="tablist">
                 <li class="nav-item" role="presentation">
                   <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab" aria-controls="home" aria-selected="true">Notices</button>
@@ -390,7 +362,7 @@
               </ul>
               <div class="tab-content content-section" id="myTabContent">
                 <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-                  <marquee direction="up" height="333px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
+                  <marquee direction="up" height="400px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
                     <ul class="section-list section-list-sm">
                       <a target="_blank" href="vender/files/notices/Very Important register on Internship and NEAT Portal -reg..pdf">
                         <li><small>Very important register on internship and NEAT portal -reg.</small></li>
@@ -420,7 +392,7 @@
                   <p class="read-more"><a href="news_section/announcement.php">read more</a></p>
                 </div>
                 <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-                  <marquee direction="up" height="333px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
+                  <marquee direction="up" height="400px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
                     <ul class="section-list section-list-sm">
                       <a target="_blank" href="http://i-mace.pccoepune.com/">
                         <li><small>I-MACE 2022 International conference on innovation in mechanical & civil engineering.</small></li>
@@ -430,7 +402,7 @@
                   <p class="read-more"><a href="news_section/upcomming_event.php">read more</a></p>
                 </div>
                 <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
-                  <marquee direction="up" height="333px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
+                  <marquee direction="up" height="400px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
                     <ul class="section-list section-list-sm">
                       <a target="_blank" href="vender/files/notices/recent_achivement.jpg">
                         <li><small><b>Dr. U. G. Potdar & Dr. N. R Deore</b> received a grant of <b>Rs. 25,50,800/- from DST-SERB</b> for the project entitled <b>"Design & development of miniature liquid fuel film comustor for thermoelectric power generation".</b></small></li>
@@ -443,6 +415,56 @@
             </div>
           </div>
         </div>
+        <!-- Start Course -->
+        <div class="container p-2">
+          <div class="row">
+            <div class="container-fluid p-3 bg-light branch-section">
+              <div class="border-bottom border-1 border-primary">
+                <p class="fs-4 color-blue">Courses</p>
+              </div>
+              <div class="row text-center justify-content-center">
+                <div class="col-sm-6 col-md-3">
+                  <a class="text-decoration-none text-dark" href="ug/co_cordinator_desk.php">
+                    <div class="item text-center">
+                      <img src="vender/img/logo/b-tech.jpg" /><br>
+                      <span class="post">B. Tech</span><br>
+                      <div class="branch">Mechanical Engineering</div>
+                    </div>
+                  </a>
+                </div>
+                <div class="col-sm-6 col-md-3">
+                  <a class="text-decoration-none text-dark" href="pg/me-design.php">
+                    <div class="item">
+                      <img src="vender/img/logo/m-tech.jpg" /><br>
+                      <span class="post">M.Tech</span><br>
+                      <div class="branch">Design Engineering</div>
+                    </div>
+                  </a>
+                </div>
+                <div class="col-sm-6 col-md-3">
+                  <a class="text-decoration-none text-dark" href="pg/me-heatpower.php">
+                    <div class="item">
+                      <img src="vender/img/logo/m-tech2.png" /><br>
+                      <span class="post">M.Tech</span><br>
+                      <div class="branch">Heat Power Engineering </div>
+                    </div>
+                  </a>
+                </div>
+                <div class="col-sm-6 col-md-3">
+                  <a class="text-decoration-none text-dark" href="phd/2.php">
+                    <div class="item">
+                      <img src="vender/img/logo/phd.jpg" /><br>
+                      <span class="post">Ph.D</span><br>
+                      <div class="branch">Mechanical Engineering</div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+        <!-- End start -->
       </div>
     </div>
   </div>
