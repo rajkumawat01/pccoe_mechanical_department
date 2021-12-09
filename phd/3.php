@@ -229,7 +229,7 @@
             <p class="fs-4 color-blue">PhD Guides and Vacancy Positions</p>
           </div>
         <br>
-        <!--<div class="row bg-white mx-lg-5 mx-md-3 mx-sm-1 mt-3 rounded">
+        <!-- <div class="row bg-white mx-lg-5 mx-md-3 mx-sm-1 mt-3 rounded">
           <div class="col-sm-3 p-2 text-center align-self-center container-fluid">
               <img src="../phd/img/SSLakade.jpg" class="card-img" style="width: 150px;" alt="Faculty Image">
               <br/>
@@ -249,7 +249,7 @@
                   </dl>
               </div>
           </div>
-        </div>-->
+        </div> -->
         <div class="row bg-white mx-lg-5 mx-md-3 mx-sm-1 mt-3 rounded">
           <div class="col-sm-3 p-2 text-center align-self-center container-fluid">
               <img src="../phd/img/NRDeore.PNG" class="card-img" style="width: 150px;" alt="Faculty Image">
