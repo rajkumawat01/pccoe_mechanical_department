@@ -201,6 +201,12 @@
                 I-MACE 2022 International conference on innovation in mechanical & civil engineering.
                 </a>
             </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> 
+                <a target="_blank" href="../vender/files/notices/pccoe-DAB-meet.pdf">
+                Department Advisory Board (DAB) meeting was conducted on 31/12/2021.
+                </a>
+            </li>
         </ul>
     </div>
 </div>

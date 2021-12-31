@@ -397,6 +397,9 @@
                       <a target="_blank" href="http://i-mace.pccoepune.com/">
                         <li><small>I-MACE 2022 International conference on innovation in mechanical & civil engineering.</small></li>
                       </a>
+                      <a target="_blank" href="vender/files/notices/pccoe-DAB-meet.pdf">
+                        <li><small>Department Advisory Board (DAB) meeting was conducted on 31/12/2021.</small></li>
+                      </a>
                     </ul>
                   </marquee>
                   <p class="read-more"><a href="news_section/upcomming_event.php">read more</a></p>
