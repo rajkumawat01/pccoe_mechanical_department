@@ -197,6 +197,12 @@
         <ul class="fa-ul">
             <li>
                 <span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> 
+                <a target="_blank" href="../vender/files/notices/i-mace_first.pdf">
+                I-MACE 2022 International conference on innovation in mechanical & civil engineering first announcement and call for papers.
+                </a>
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> 
                 <a target="_blank" href="http://i-mace.pccoepune.com/">
                 I-MACE 2022 International conference on innovation in mechanical & civil engineering.
                 </a>

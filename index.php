@@ -206,9 +206,9 @@
     <div class="running-text">
       <span class="static-head">SPOTLIGHT</span>
       <marquee scrollamount="4" class="p-1" onmouseover="this.stop();" onmouseout="this.start();">
-        <a class="text-decoration-none text-dark" target="_blank" href="http://i-mace.pccoepune.com/">
+        <a class="text-decoration-none text-dark" target="_blank" href="vender/files/notices/i-mace_first.pdf">
           <span class="marquee-text">
-            I-MACE 2022 International conference on innovation in mechanical & civil engineering.
+            I-MACE 2022 International conference on innovation in mechanical & civil engineering first announcement and call for papers.
           </span>
         </a>
       </marquee>
@@ -412,6 +412,9 @@
                 <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
                   <marquee direction="up" height="400px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
                     <ul class="section-list section-list-sm">
+                      <a target="_blank" href="vender/files/notices/i-mace_first.pdf">
+                        <li><small>I-MACE 2022 International conference on innovation in mechanical & civil engineering first announcement and call for papers.</small></li>
+                      </a>
                       <a target="_blank" href="http://i-mace.pccoepune.com/">
                         <li><small>I-MACE 2022 International conference on innovation in mechanical & civil engineering.</small></li>
                       </a>
