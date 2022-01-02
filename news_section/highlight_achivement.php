@@ -198,6 +198,18 @@
         <ul class="fa-ul">
             <li>
                 <span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> 
+                <a target="_blank" href="../vender/files/notices/army_student.png">
+                One of our Mechanical Engineering 2019 passout student <b>Mr. Jaydeep Mahajan</b>  Passed UPSC CDS exam Joined <b> Indian Military Academy, Dehradun</b> in Jan 2020 Commissioned into  24th Battalion, The Rajputana Rifles on 12 June 2021. Posted at Jaipur
+                </a>
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> 
+                <a target="_blank" href="../vender/files/notices/navy_student.png">
+                PCCOE Mechanical student in India’s Top exams like UPSC, Army & Navy.<b> Mr. Shubham Nesargi </b>of PCCOE- Mechanical has been selected in <b>Indian Army</b> and started his one year training at Chennai after which he will be <b>Lieutenant in Indian Army.</b>
+                </a>
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> 
                 <a target="_blank" href="../vender/files/notices/recent_achivement.jpg">
                 <b>Dr. U. G. Potdar & Dr. N. R Deore</b> received a grant of  <b>Rs. 25,50,800/- from DST-SERB</b> for the project entitled <b>"Design & development of miniature liquid fuel film comustor for thermoelectric power generation".</b>
                 </a>

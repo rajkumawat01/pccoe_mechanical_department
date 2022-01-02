@@ -196,6 +196,18 @@
         <ul class="fa-ul">
             <li>
                 <span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> 
+                <a target="_blank" href="../vender/files/notices/notice_commencement.pdf">
+                Commencement of Third and Final Year Engineering Students Semester -II of A.Y.2021-22.
+                </a>
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> 
+                <a target="_blank" href="../vender/files/notices/notice_scholarship.pdf">
+                Scholarship Notice For First Year To last Year Students of A.Y.2021-22.
+                </a>
+            </li>
+            <!-- <li>
+                <span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> 
                 <a target="_blank" href="../vender/files/notices/Very Important register on Internship and NEAT Portal -reg..pdf">
                   Very important register on internship and NEAT portal -reg.
                 </a>
@@ -205,7 +217,7 @@
                 <a target="_blank" href="../vender/files/notices/submission_mock oral.pdf">
                    Revised submission and mock oral schedule circular for BE and TE.
                 </a>
-            </li>
+            </li> -->
             <!-- <li>
                 <span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> 
                 <a target="_blank" href="../vender/files/notices/PCCOE INSEM EXAMINATION CIRCULAR BACHELOR OF ENGINEERING (2015 COURSE) B.E (CIVIL) TIME -2.00 TO 2.40 PM.pdf">

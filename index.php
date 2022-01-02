@@ -336,13 +336,21 @@
                 <p class="fs-4 color-blue">Highlighted Achievements</p>
               </div>
               <div class="row text-center justify-content-center">
-                <marquee height="410px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
-                  <ul class="section-list section-list-sm">
-                    <div class="achivement-item border card mt-2">
+                <marquee height="420px;" width="100%" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
+                  <div class="d-flex justify-content-around">
+                    <div class="m-2 bg-white border rounded">
                       <img src="vender/files/notices/recent_achivement.jpg">
                       <p class="p-2  mb-0 font-title text-data"><small><b>Dr. U. G. Potdar & Dr. N. R Deore</b> received a grant of <br><b>Rs. 25,50,800/- from DST-SERB</b> for the project entitled <br><b>"Design & development of miniature liquid fuel film <br>comustor for thermoelectric power generation".</b></small></p>
                     </div>
-                  </ul>
+                    <div class="m-2 bg-white border rounded">
+                      <img src="vender/files/notices/army_student.png">
+                      <p class="p-2  mb-0 font-title text-data"><small>One of our Mechanical Engineering 2019 passout student <br><b>Mr. Jaydeep Mahajan</b>  Passed UPSC CDS exam Joined <b> Indian <br> Military Academy, Dehradun</b> in Jan 2020 Commissioned into  24th <br> Battalion, The Rajputana Rifles on 12 June 2021. Posted at Jaipur</b></small></p>
+                    </div>
+                    <div class="m-2 bg-white border rounded">
+                      <img src="vender/files/notices/navy_student.png">
+                      <p class="p-2  mb-0 font-title text-data"><small>PCCOE Mechanical student in India’s Top exams like UPSC,<br> Army & Navy.<b> Mr. Shubham Nesargi </b>of PCCOE- Mechanical has <br>been selected in <b>Indian Army </b>and started his one year training <br>  at Chennai after which he will be <b>Lieutenant in Indian Army.</b></small></p>
+                    </div>
+                  </div>
                 </marquee>
               </div>
             </div>
@@ -364,9 +372,9 @@
                 <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
                   <marquee direction="up" height="400px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
                     <ul class="section-list section-list-sm">
-                      <a target="_blank" href="vender/files/notices/Very Important register on Internship and NEAT Portal -reg..pdf">
+                      <!-- <a target="_blank" href="vender/files/notices/Very Important register on Internship and NEAT Portal -reg..pdf">
                         <li><small>Very important register on internship and NEAT portal -reg.</small></li>
-                      </a>
+                      </a> -->
                       <!-- <a target="_blank" href="vender/files/notices/PCCOE INSEM EXAMINATION CIRCULAR BACHELOR OF ENGINEERING (2015 COURSE) B.E (CIVIL) TIME -2.00 TO 2.40 PM.pdf">
                       <li>
                         <small>Pccoe insem examination circular bachelor of engineering (2015 course) B.E time -2.00 to 2.40 pm.</small>
@@ -382,9 +390,19 @@
                         <small>PCCOE-Examination Circular Third Year Engineering (2019 Pattern) SEM-I Insemester Examination Time 10.00 am To 10.40 am.</small>
                       </li>
                     </a> -->
-                      <a target="_blank" href="vender/files/notices/submission_mock oral.pdf">
+                      <!-- <a target="_blank" href="vender/files/notices/submission_mock oral.pdf">
                         <li>
                           <small>Revised submission and mock oral schedule circular for BE and TE.</small>
+                        </li>
+                      </a> -->
+                      <a target="_blank" href="vender/files/notices/notice_commencement.pdf">
+                        <li>
+                          <small>Commencement of Third and Final Year Engineering Students Semester -II of A.Y.2021-22.</small>
+                        </li>
+                      </a>
+                      <a target="_blank" href="vender/files/notices/notice_scholarship.pdf">
+                        <li>
+                          <small>Scholarship Notice For First Year To last Year Students of A.Y.2021-22.</small>
                         </li>
                       </a>
                     </ul>
@@ -407,6 +425,12 @@
                 <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
                   <marquee direction="up" height="400px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
                     <ul class="section-list section-list-sm">
+                      <a target="_blank" href="vender/files/notices/army_student.png">
+                        <li><small>One of our Mechanical Engineering 2019 passout student <b>Mr. Jaydeep Mahajan</b>  Passed UPSC CDS exam Joined <b> Indian Military Academy, Dehradun</b> in Jan 2020 Commissioned into  24th Battalion, The Rajputana Rifles on 12 June 2021. Posted at Jaipur</small></li>
+                      </a>
+                      <a target="_blank" href="vender/files/notices/navy_student.png">
+                        <li><small>PCCOE Mechanical student in India’s Top exams like UPSC, Army & Navy.<b> Mr. Shubham Nesargi </b>of PCCOE- Mechanical has been selected in <b>Indian Army and started his one year training at Chennai after which he will be <b>Lieutenant in Indian Army.</b></small></li>
+                      </a>
                       <a target="_blank" href="vender/files/notices/recent_achivement.jpg">
                         <li><small><b>Dr. U. G. Potdar & Dr. N. R Deore</b> received a grant of <b>Rs. 25,50,800/- from DST-SERB</b> for the project entitled <b>"Design & development of miniature liquid fuel film comustor for thermoelectric power generation".</b></small></li>
                       </a>
