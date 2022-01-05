@@ -198,6 +198,18 @@
         <ul class="fa-ul">
             <li>
                 <span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> 
+                <a target="_blank" href="../vender/files/notices/cetrificate_jaya_goyal.pdf">
+                <b>Dr Jaya Goyal</b> cleared the
+                                                    <b>National certification examination</b> for Energy Auditors,
+                                                    conducted by <b>National Productivity
+                                                    Council and Bureau of Energy Efficiency</b> in September 2021. She is
+                                                    now entitled as Certfied Energy Auditor and eligible for
+                                                    practicing as  Energy  Auditor under <b>Energy Conservation Act
+                                                    2001.</b>
+                </a>
+            </li>
+            <li>
+                <span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> 
                 <a target="_blank" href="../vender/files/notices/army_student.png">
                 One of our Mechanical Engineering 2019 passout student <b>Mr. Jaydeep Mahajan</b>  Passed UPSC CDS exam Joined <b> Indian Military Academy, Dehradun</b> in Jan 2020 Commissioned into  24th Battalion, The Rajputana Rifles on 12 June 2021. Posted at Jaipur
                 </a>
